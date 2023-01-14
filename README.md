@@ -5,7 +5,10 @@
 </div>
 
 - 👋 Hi, I’m PyScientist!
-- 👀 I’m interested in Data Analysis with Python and especialy I'm keen on DataScience techniques to find dependancies between data.
-- 🌱 I’m currently learning ways to setup Telegram bots with use of Python pyTelegramBotAPI and make some usefull backend calculation via telegram. 
-- 💞️ I’m looking to collaborate on DataScience projects.
+- 👀 I’m interested in Data Analysis with Python and especially I'm keen on DataScience techniques to find dependencies between data.
+- 👀 I'm also keen on web app and microservices development with such frameworks as Django REST, Flask, Fast API.
+- 🌱 I’m currently learning ways to create and customize Telegram bots with the use of Python pyTelegramBotAPI and Flask.
+- 🌱 My website is based on the Django framework also here and available as a public repository.
+- 💞️ Please feel free to comment on my code and make your usefull sujestions.
+- 💞️ I’m looking to collaborate on DataScience, ML projects and web development.
 - 📫 You may reach me by e-mail sergei-dmitriev@mail.ru and Telegram (https://t.me/PyScientistRUS).
