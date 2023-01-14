@@ -27,7 +27,7 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  title="python" alt="python" width="50" height="50"/>
