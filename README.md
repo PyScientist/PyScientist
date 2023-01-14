@@ -12,3 +12,15 @@
 - 💞️ Please feel free to comment on my code and make your usefull sujestions.
 - 💞️ I’m looking to collaborate on DataScience, ML projects and web development.
 - 📫 You may reach me by e-mail sergei-dmitriev@mail.ru and Telegram (https://t.me/PyScientistRUS).
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/sergei-dmitriev-36265585/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCSyVru3RIxaHr4syFacyo7w">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/PyScientist">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
