@@ -7,7 +7,7 @@
 </div>
 
 - 👋 Hey, Good to see you! 
-- I’m Python backend developer | Datascientist!
+- I’m Python backend developer | Datascientist | Geoscientist and Petrophysicist!
 - 👀 I’m interested in Data Analysis with Python and especially I'm keen on DataScience techniques to find dependencies between data. I'm also keen on web app and microservices development with such frameworks as Django REST, Flask, Fast API.
 - 🌱 I’m currently learning ways to create and customize Telegram bots with the use of Python pyTelegramBotAPI and Flask. One more my project is website based on the Django framework and available as a public repository (PyScientist's Lair). The web site provided services to help me with every day tasks, it also my landing page, and place where i testing new features with web development.
 - 💞️ Please feel free to comment on my code and make your useful suggestions. I’m looking to collaborate on DataScience, ML projects and web development.
