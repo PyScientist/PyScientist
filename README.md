@@ -10,9 +10,9 @@
 - I’m Python backend developer | Datascientist | Geoscientist and Petrophysicist!
 - 👀 I'm an experienced Engineer and Data Scientist, skilled in data analysis to uncover correlations between the variables and make predictions with Scikit-learn and TensorFlow libraries. As a Python developer I am also interested in web application and microservices development with Django REST, Flask, and Fast API frameworks. I strive to combine my Engineering, DataScience and web app developmment expiriance in my projects and everyday work.
 - 🌱 I’m currently working on set of project:
-  1) DataScience project in field of sports to analysis and predict competition results the work going in private repository;
-  2) One more of my projects is a website based on the Django framework and available as a public repository (PyScientist's Lair). The website provided services which will help me with everyday tasks, it is also my landing page and the place where I'm testing new features with web development.
-  3) The third project is creation and customization of Telegram bot with the use of Python pyTelegramBotAPI and Flask.
+  1) DataScience project in field of sports to analysis and predict competition results. The work is going in private repository;
+  2) One more of my projects is the website based on the Django framework and available as a public repository (PyScientist's Lair). The website provided services which will help me with everyday tasks, it is also my landing page and the place where I'm testing new features with web development.
+  3) The third project is creation and customization of Telegram bot with the use of Python pyTelegramBotAPI and Flask (It is also avalible as public repository).
 - 💞️ Please feel free to comment on my code and make your useful suggestions. I’m looking to collaborate on DataScience, ML projects and web development.
 - 📫 You may reach me by e-mail sergei-dmitriev@mail.ru and Telegram (https://t.me/PyScientistRUS).
 
