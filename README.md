@@ -7,7 +7,7 @@
 </div>
 
 - 👋 Hey collegues! Good to see you Here! 
-- I’m Python backend developer | Datascientist | Geoscientist and Petrophysicist!
+- I’m <b>Python backend developer | Datascientist | Geoscientist and Petrophysicist</b>
 - 👀 As experienced <b>Engineer</b> 🗼 and <b>Data Scientist</b> 🌌 i'm skilled in data analysis to uncover correlations between the variables and make predictions with Scikit-learn and TensorFlow libraries. As a Python developer I'm also interested in web application and microservices development with Django REST, Flask, and Fast API frameworks. I strive to combine my Engineering, DataScience and web app development experience in my <b>personal projects</b> 🎇 and <b>everyday work</b> 🏭.
 - 🌱 I’m currently working on set of projects:<br>
   👉 DataScience project related with petrophisics and linked to Telegram and web development; <br>
