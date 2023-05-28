@@ -9,9 +9,9 @@
 - 👋 Hey collegues! Good to see you Here! 
 - I’m Python backend developer | Datascientist | Geoscientist and Petrophysicist!
 - 👀 As experienced <b>Engineer</b> 🗼 and <b>Data Scientist</b> 🌌 i'm skilled in data analysis to uncover correlations between the variables and make predictions with Scikit-learn and TensorFlow libraries. As a Python developer I'm also interested in web application and microservices development with Django REST, Flask, and Fast API frameworks. I strive to combine my Engineering, DataScience and web app development experience in my <b>personal projects</b> 🎇 and <b>everyday work</b> 🏭.
-- 🌱 I’m currently working on set of projects:
-  👉1) DataScience project related with petrophisics and linked to Telegram and web development;
-  👉2) One more of my projects is the website based on the Django framework and available as a public repository (PyScientist's Lair). The website provided services which will help me with everyday tasks, it is also my landing page and the place where I'm testing new features with web development.
+- 🌱 I’m currently working on set of projects:<br>
+  👉 DataScience project related with petrophisics and linked to Telegram and web development; <br>
+  👉 One more of my projects is the website based on the Django framework and available as a public repository (PyScientist's Lair). The website provided services which will help me with everyday tasks, it is also my landing page and the place where I'm testing new features with web development.
 - 💞️ Please feel free to comment on my code and make your useful suggestions. I’m looking to collaborate on DataScience, ML projects and web development.
 - 📫 You may reach me by e-mail sergei-dmitriev@mail.ru and Telegram (https://t.me/PyScientistRUS).
 
