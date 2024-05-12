@@ -9,8 +9,10 @@
 - 👋 Hey collegues! Good to see you Here! 
 - I’m <b> Petrophysicist | Datascientist | Python backend developer</b>
 - 👀 As experienced <b>Engineer</b> 🗼 and <b>Data Scientist</b> 🌌 i'm skilled in data analysis to uncover obscure correlations between the variables and make predictions with Scikit-learn and TensorFlow libraries. As a Python developer I'm also interested in web application and microservices development with Django REST & Flask frameworks. I strive to combine my Engineering, DataScience and web app development experience in my <b>personal projects</b> 🎇 and <b>everyday work</b> 🏭.
-- 🌱 I’m currently working on set of projects:<br>
-  👉 DataScience project related with petrophisics, ML and web development; <br>
+- 🌱 I’m currently working on set of projects related with:<br>
+  👉 DataScience <br>
+  👉 Petrophisics <br>
+  👉 Web development <br>
 - 💞️ Please feel free to comment on my code and make your useful suggestions. I’m looking to collaborate on DataScience, ML projects and web development.
 - 📫 You may reach me by e-mail sergei-dmitriev@mail.ru and Telegram (https://t.me/PyScientistRUS).
 
